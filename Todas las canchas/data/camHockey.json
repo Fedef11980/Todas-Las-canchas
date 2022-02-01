@@ -1,0 +1,26 @@
+[
+  {
+    "id": 24,
+    "nombre": "Camiseta Leonas",
+    "precio": 2800,
+    "imagen": "../assets/images/hocLeonas.jpg"
+  },
+  {
+    "id": 25,
+    "nombre": "Camiseta Holanda Alt.",
+    "precio": 3000,
+    "imagen": "../assets/images/hocHolanda.jpg"
+  },
+  {
+    "id": 26,
+    "nombre": "Camiseta Inglaterra",
+    "precio": 3000,
+    "imagen": "../assets/images/hocInglaterra.jpg"
+  },
+  {
+    "id": 27,
+    "nombre": "Camiseta River",
+    "precio": 2800,
+    "imagen": "../assets/images/hocRiver.jpg"
+  }
+]

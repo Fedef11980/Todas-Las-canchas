@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta Pumas",
+    "precio": 4500,
+    "imagen": "../assets/images/rugPumas.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Camiseta Inglaterra",
+    "precio": 4500,
+    "imagen": "../assets/images/rugEngland.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Camiseta Sudafrica",
+    "precio": 4000,
+    "imagen": "../assets/images/rugSpringboks.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Camiseta Teros",
+    "precio": 3500,
+    "imagen": "../assets/images/rugTeros.jpg"
+  }
+]

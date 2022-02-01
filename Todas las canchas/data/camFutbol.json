@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta Peñarol",
+    "precio": 2500,
+    "imagen": "../assets/images/futPeñarol.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Camiseta Boca",
+    "precio": 2500,
+    "imagen": "../assets/images/futBoca.jpeg"
+  },
+  {
+    "id": 3,
+    "nombre": "Camiseta Liverpool",
+    "precio": 2500,
+    "imagen": "../assets/images/futLiverpool.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Camiseta Barcelona",
+    "precio": 2500,
+    "imagen": "../assets/images/futBarcelona.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Camiseta Bayern",
+    "precio": 2500,
+    "imagen": "../assets/images/futBayern.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Camiseta Paris Saint Germen",
+    "precio": 2500,
+    "imagen": "../assets/images/futPsg.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Camiseta Borussia",
+    "precio": 2500,
+    "imagen": "../assets/images/futBorussia.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Camiseta Flamengo",
+    "precio": 2500,
+    "imagen": "../assets/images/futFlamengo.jpg"
+  }
+]

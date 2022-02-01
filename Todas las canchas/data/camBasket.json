@@ -1,0 +1,27 @@
+[
+    {
+      "id": 13,
+      "nombre": "Camiseta Chicago Bulls",
+      "precio": 3000,
+      "imagen": "../assets/images/basketChicago.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Camiseta Indiana Pacers",
+      "precio": 3000,
+      "imagen": "../assets/images/basketIndianaPacers.png"
+    },
+    {
+      "id": 15,
+      "nombre": "Camiseta Lakers",
+      "precio": 3000,
+      "imagen": "../assets/images/basketAngelesLakers.png"
+    },
+    {
+      "id": 16,
+      "nombre": "Camiseta Miami Heat",
+      "precio": 3000,
+      "imagen": "../assets/images/basketMiamiHeat.png"
+  
+    }
+  ]

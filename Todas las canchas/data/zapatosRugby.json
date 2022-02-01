@@ -1,0 +1,26 @@
+[
+  {
+    "id": 30,
+    "nombre": "Adidas Kakari",
+    "precio": 6500,
+    "imagen": "../assets/images/rugKakari.jpg"
+  },
+  {
+    "id": 31,
+    "nombre": "Adidas Malice",
+    "precio": 6800,
+    "imagen": "../assets/images/rugAdidasMalice.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Canterbury Phoenix",
+    "precio": 6500,
+    "imagen": "../assets/images/rugCanterburyPhoenix.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Under Armor Core Speed",
+    "precio": 3800,
+    "imagen": "../assets/images/rugUnderArmor.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 36,
+    "nombre": "Casco Mitre",
+    "precio": 1650,
+    "imagen": "../assets/images/rugCascoMitre.jpg"
+  },
+  {
+    "id": 37,
+    "nombre": "Pelota Gilbert",
+    "precio": 3150,
+    "imagen": "../assets/images/rugGilbert.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Casco Joma",
+    "precio": 1950,
+    "imagen": "../assets/images/rugCascoJoma.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Proteccion de antebrazo",
+    "precio": 1850,
+    "imagen": "../assets/images/rugAntebrazo.jpg"
+  }
+]

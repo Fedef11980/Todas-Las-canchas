@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5,
+    "nombre": "Adidas AdiPower",
+    "precio": 4500,
+    "imagen": "../assets/images/hocAdidasAdiPower.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Adidas Zone Dox",
+    "precio": 5300,
+    "imagen": "../assets/images/hocAdidasZoneDox.jpeg"
+  },
+  {
+    "id": 7,
+    "nombre": "Asics Field Ultimate",
+    "precio": 5000,
+    "imagen": "../assets/images/hocAsicsFieldUltimate.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Asics Gel Beyond 6",
+    "precio": 3800,
+    "imagen": "../assets/images/hocAsicsGelBeyond.jpeg"
+  },
+  {
+    "id": 9,
+    "nombre": "Nike Vapor Drive Gris",
+    "precio": 5300,
+    "imagen": "../assets/images/hocNikeVapor.jpeg"
+  },
+  {
+    "id": 10,
+    "nombre": "Nike Vapor Drive Royal",
+    "precio": 5300,
+    "imagen": "../assets/images/hocNikeVaporDriveRoyal.jpeg"
+  },
+  {
+    "id": 11,
+    "nombre": "Mizuno Panthera",
+    "precio": 4250,
+    "imagen": "../assets/images/hocMizunoPanthera.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Mizuno Waves",
+    "precio": 4350,
+    "imagen": "../assets/images/hocMizunoWaves.jpg"
+  }
+]

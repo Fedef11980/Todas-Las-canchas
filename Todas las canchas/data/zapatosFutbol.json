@@ -1,0 +1,26 @@
+[   
+     {
+    "id": 5,
+    "nombre": "Nike Phantom",
+    "precio": 5500,
+    "imagen": "../assets/images/futNikePhantom.jpg"
+    },
+    {
+    "id": 6,
+    "nombre": "Adidas Nemesis",
+    "precio": 5500,
+    "imagen": "../assets/images/futAdidasMessi.jpg"
+    },
+    {
+    "id": 7,
+    "nombre": "Puma Future",
+    "precio": 5000,
+    "imagen": "../assets/images/futPumaFuture.jpg"
+    },
+    {
+    "id": 8,
+    "nombre": "New Balance Visaro",
+    "precio": 2500,
+    "imagen": "../assets/images/futNewBalance.jpg"
+    }
+]

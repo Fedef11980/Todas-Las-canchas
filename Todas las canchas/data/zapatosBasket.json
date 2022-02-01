@@ -1,0 +1,50 @@
+[
+  {
+    "id": 21,
+    "nombre": "Nike Kyrie",
+    "precio": 5600,
+    "imagen": "../assets/images/basketNike.jpg"
+  },
+  {
+    "id": 22,
+    "nombre": "Reebok Pump",
+    "precio": 4400,
+    "imagen": "../assets/images/basketReebok.png"
+  },
+  {
+    "id": 23,
+    "nombre": "Nike Jordan",
+    "precio": 9500,
+    "imagen": "../assets/images/basketJordan.png"
+  },
+  {
+    "id": 24,
+    "nombre": "Under Armor Lockdown",
+    "precio": 2500,
+    "imagen": "../assets/images/basketUA.jpg"
+  },
+  {
+    "id": 25,
+    "nombre": "Adidas Pro Bounce",
+    "precio": 5400,
+    "imagen": "../assets/images/basketAdidasProBounce.jpg"
+  },
+  {
+    "id": 26,
+    "nombre": "Adidas Pro Bounce 2018",
+    "precio": 3800,
+    "imagen": "../assets/images/basketAdidas.png"
+  },
+  {
+    "id": 27,
+    "nombre": "Reebok Shawn Kemp",
+    "precio": 5400,
+    "imagen": "../assets/images/basketReebokKemp.png"
+  },
+  {
+    "id": 28,
+    "nombre": "Nike Lebron James",
+    "precio": 5300,
+    "imagen": "../assets/images/basketLebron.jpg"
+  }
+]

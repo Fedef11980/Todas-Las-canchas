@@ -1,0 +1,50 @@
+[
+  {
+    "id": 31,
+    "nombre": "Palo de Hockey Vlack",
+    "precio": 2650,
+    "imagen": "../assets/images/hockPaloVlack.jpg"
+  },
+  {
+    "id": 32,
+    "nombre": "Palo de Hockey Adidas",
+    "precio": 3150,
+    "imagen": "../assets/images/hockPaloAdidas.jpg"
+  },
+  {
+    "id": 33,
+    "nombre": "Palo de Hockey Grays",
+    "precio": 2350,
+    "imagen": "../assets/images/hockPaloGrays.jpg"
+  },
+  {
+    "id": 34,
+    "nombre": "Palo de Hockey Malick",
+    "precio": 3050,
+    "imagen": "../assets/images/hockPaloMalick.jpg"
+  },
+  {
+    "id": 35,
+    "nombre": "Funda de Palos Malick",
+    "precio": 1550,
+    "imagen": "../assets/images/hockFundaMalick.jpg"
+  },
+  {
+    "id": 36,
+    "nombre": "Funda de Palos Grays",
+    "precio": 1450,
+    "imagen": "../assets/images/hockFundaGrays.jpg"
+  },
+  {
+    "id": 37,
+    "nombre": "Equipo Arquero Drial",
+    "precio": 4350,
+    "imagen": "../assets/images/hockArquero.jpg"
+  },
+  {
+    "id": 38,
+    "nombre": "Casco de Arquero",
+    "precio": 2950,
+    "imagen": "../assets/images/hockCasco.jpg"
+  }
+]

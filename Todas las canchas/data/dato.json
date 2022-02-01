@@ -1,0 +1,150 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camiseta Peñarol",
+        "precio": 2500,
+        "imagen": "../assets/images/futPeñarol.jpg"
+    },
+    {
+       "id": 2,
+        "nombre": "Camiseta Boca",
+        "precio": 2500,
+        "imagen": "../assets/images/futBoca.jpeg"
+    },
+    {
+        "id": 3,
+        "nombre": "Camiseta Liverpool",
+        "precio": 2500,
+        "imagen": "../assets/images/futLiverpool.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Camiseta Barcelona",
+        "precio": 2500,
+        "imagen": "../assets/images/futBarcelona.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Nike Phantom",
+        "precio": 5500,
+        "imagen": "../assets/images/futNikePhantom.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Adidas Nemesis",
+        "precio": 5500,
+        "imagen": "../assets/images/futAdidasMessi.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Puma Future",
+        "precio": 5000,
+        "imagen": "../assets/images/futPumaFuture.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "New Balance Visaro",
+        "precio": 2500,
+        "imagen": "../assets/images/futNewBalance.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Pelota Nike",
+        "precio": 1150,
+        "imagen": "../assets/images/futPelotaNike.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Pelota Adidas",
+        "precio": 1200,
+        "imagen": "../assets/images/futPelotaAdidas.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Arcos de Práctica",
+        "precio": 1800,
+        "imagen": "../assets/images/futArcos.png"
+    },
+    {
+        "id": 12,
+        "nombre": "Conos de Práctica",
+        "precio": 500,
+        "imagen": "../assets/images/futConos.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Camiseta Chicago Bulls",
+        "precio": 3000,
+        "imagen": "../assets/images/basketChicago.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Camiseta Indiana Pacers",
+        "precio": 3000,
+        "imagen": "../assets/images/basketIndianaPacers.png"
+    },
+    {
+        "id": 15,
+        "nombre": "Camiseta Lakers",
+        "precio": 3000,
+        "imagen": "../assets/images/basketAngelesLakers.png"
+    },
+    {
+        "id": 16,
+        "nombre": "Camiseta Miami Heat",
+        "precio": 3000,
+        "imagen": "../assets/images/basketMiamiHeat.png"
+    
+    },
+    {
+        "id": 17,
+        "nombre": "Pelota Spalding",
+        "precio": 2600,
+        "imagen": "../assets/images/basketSpalding.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Pelota Molten",
+        "precio": 2400,
+        "imagen": "../assets/images/basketPelotaMolten.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Tablero Basketball",
+        "precio": 7800,
+        "imagen": "../assets/images/basketTablero.png"
+    },
+    {
+        "id": 20,
+        "nombre": "Lentes para Basketball",
+        "precio": 3600,
+        "imagen": "../assets/images/basketGafas.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Nike Kyrie",
+        "precio": 5600,
+        "imagen": "../assets/images/basketNike.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Reebok Pump",
+        "precio": 4400,
+        "imagen": "../assets/images/basketReebok.png"
+    },
+    {
+        "id": 23,
+        "nombre": "Nike Jordan",
+        "precio": 9500,
+        "imagen": "../assets/images/basketJordan.png"
+    },
+    {
+        "id": 24,
+        "nombre": "Under Armor Lockdown",
+        "precio": 2500,
+        "imagen": "../assets/images/basketUA.jpg"
+    }
+]
+
+    
+    

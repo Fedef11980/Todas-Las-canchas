@@ -1,0 +1,26 @@
+[ 
+    {
+    "id": 9,
+    "nombre": "Pelota Nike",
+    "precio": 1150,
+    "imagen": "../assets/images/futPelotaNike.jpg"
+    },
+    {
+    "id": 10,
+    "nombre": "Pelota Adidas",
+    "precio": 1200,
+    "imagen": "../assets/images/futPelotaAdidas.jpg"
+    },
+    {
+    "id": 11,
+    "nombre": "Arcos de Práctica",
+    "precio": 1800,
+    "imagen": "../assets/images/futArcos.png"
+    },
+    {
+    "id": 12,
+    "nombre": "Conos de Práctica",
+    "precio": 500,
+    "imagen": "../assets/images/futConos.jpg"
+    }
+]

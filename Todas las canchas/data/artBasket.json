@@ -1,0 +1,26 @@
+[ 
+    {
+    "id": 17,
+    "nombre": "Pelota Spaldin",
+    "precio": 2600,
+    "imagen": "../assets/images/basketSpalding.jpg"
+    },
+    {
+    "id": 18,
+    "nombre": "Pelota Molten",
+    "precio": 2400,
+    "imagen": "../assets/images/basketPelotaMolten.jpg"
+    },
+    {
+    "id": 19,
+    "nombre": "Tablero Basketball",
+    "precio": 7800,
+    "imagen": "../assets/images/basketTablero.png"
+    },
+    {
+    "id": 20,
+    "nombre": "Lentes para Basketball",
+    "precio": 3600,
+    "imagen": "../assets/images/basketGafas.jpg"
+    }
+]

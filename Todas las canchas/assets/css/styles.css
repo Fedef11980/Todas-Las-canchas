@@ -1,0 +1,221 @@
+html {
+  background-color: #fdf9ff;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+
+body {
+  line-height: 1.5;
+  font-family: "Montserrat", sans-serif;
+}
+#cabezal {
+  color: #fdf9ff;
+  text-align: center;
+}
+
+#user {
+  color: #fdf9ff;
+  font-size: 17px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: inline-block;
+  padding-right: 70px;
+}
+
+/* Carousel */
+.carousel-inner > .item > img {
+  width: 100%;
+  height: 570px;
+}
+.carousel-item {
+  height: 70vh;
+}
+
+/* Camisetas - Ropa - cards */
+.camiseta {
+  width: auto;
+  height: 200px;
+}
+
+.camFutbol {
+  display: flex;
+  justify-content: center;
+}
+
+/* Footer */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.conte {
+  max-width: 1170px;
+  margin: auto;
+}
+ul {
+  list-style: none;
+}
+.footer {
+  background-color: #24262b;
+  padding: 70px 0;
+  height: 270px;
+}
+.pie h4 {
+  color: #ffff;
+  font-size: 18px;
+  text-transform: capitalize;
+  margin-bottom: 35px;
+  font-weight: 500;
+  position: relative;
+}
+.pie ul li {
+  margin-bottom: 10px;
+}
+.pie ul li a {
+  font-size: 16px;
+  text-transform: capitalize;
+  color: #ffff;
+  text-decoration: none;
+  font-weight: 300;
+  color: #bbb;
+  display: block;
+}
+.pie ul li a:hover {
+  color: #ffff;
+  padding-left: 8px;
+}
+.social-links a {
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  background-color: rgba(255, 255, 255, 0.2);
+  text-align: center;
+  line-height: 40px;
+  border-radius: 50%;
+  color: #ffff;
+  transition: all 0.5s ease;
+}
+.social-links a:hover {
+  color: #24262b;
+  background-color: #ffff;
+}
+@media (max-width: 767px) {
+  .pie {
+    width: 50%;
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 574px) {
+  .pie {
+    width: 100%;
+  }
+}
+
+.titulo {
+  text-align: center;
+  margin-bottom: 20px;
+}
+#container {
+  margin-bottom: 30px;
+}
+.cargar {
+  width: auto;
+}
+
+.cart {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  background: #fdf9ff;
+}
+.car-img {
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+}
+.producto-carrito {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.product-details {
+  font-weight: bold;
+}
+.finalizar {
+  width: 20%;
+}
+#remove-product {
+  width: 100px;
+  height: 60px;
+  text-align: center;
+}
+.total-carrito {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.total {
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 1.2rem;
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  background: #444849;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+.compra-finalizada {
+  color: #fdf9ff;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  margin-top: 50px;
+  background: #5f5e5d;
+}
+.compra-parrafo {
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 20px;
+  border: 1px, solid, black !important;
+  border-radius: 15px;
+}
+.datos-cliente {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+.datos-parrafo {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+.contact__secction__item {
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+}
+.contact-button {
+  display: flex;
+  justify-content: center;
+  font-size: 1.3rem;
+}
+.envio {
+  margin-top: 15px;
+}
+.mensaje-final {
+  font-weight: bold;
+  font-size: 1.3rem;
+  padding: 20px;
+  border: 1px, solid, black;
+  border-radius: 15px;
+  margin: 20px;
+  text-align: center;
+}
+.datEnvio {
+  text-align: center;
+}
+
+#maps {
+  height: 300px;
+  width: 500px;
+}
